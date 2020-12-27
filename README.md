@@ -1,4 +1,4 @@
-During my internship at a marketing research company-statista, I found python can faciliate data analysis tasks in client management. So here are the projects I have done
+During my internship at a marketing research company, I found python can faciliate data analysis tasks in client management. So here are the projects I have done
 
 # geographystatista
 I have developed the geography package for statista.
