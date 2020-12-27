@@ -7,5 +7,5 @@ For fixing the problem and automate the process of combining dataset, I have wri
 1) How to write the a excel spreadsheet with data of city and state into a python dictionary.
 2) The automation codes- Upload the dataset, and refresh. Then you will have one dataset with city, state and the larger city which has the airport. 
 
-#master-slave account
+# master-slave account
 In our client management system, we put our agency clients in the pattern of "master-slave"account. This means the main organization name is a master account(eg, omnicom), while the subsidiary account(eg,heart&science) is the slave account. I have designed functions based on join and count to manage hierarchy of accounts.  
